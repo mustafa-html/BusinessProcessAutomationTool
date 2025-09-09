@@ -1,0 +1,17 @@
+[
+  {
+    "CustomerId": "C001",
+    "Email": "Aisha.Khan@Example.com",
+    "Phone": "+1-403-555-1000"
+  },
+  {
+    "CustomerId": "C002",
+    "Email": "john.smith@example.com",
+    "Phone": "+1-587-555-2000"
+  },
+  {
+    "CustomerId": "C005",
+    "Email": "new.customer@example.com",
+    "Phone": "+1-825-555-3000"
+  }
+]
